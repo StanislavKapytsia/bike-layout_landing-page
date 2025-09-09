@@ -1,4 +1,35 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+This project transforms a Figma mockup into a landing page using HTML, CSS
+
+🔗[ Live Preview ](https://StanislavKapytsia.github.io/bike-layout_landing-page/)
+
+🎨[ Figma Mockup  ](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f)
+
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- [BEM (Block Element Modifier)](https://en.bem.info/methodology/)
+
+
+## 🚀 Getting Started
+Follow these steps to set up the project locally:
+
+
+### 1. Clone the repo
+git clone https://github.com/StanislavKapytsia/bike-layout_landing-page.git
+cd bike-layout_landing-page
+
+### 2. Install dependencies
+```bash
+npm install
+# or
+yarn install
+```
+
+### 3. Run the project locally
+```bash
+npm start
+# or
+yarn start
+```
+
+
