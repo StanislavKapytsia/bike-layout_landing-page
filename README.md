@@ -15,9 +15,10 @@ Follow these steps to set up the project locally:
 
 
 ### 1. Clone the repo
+```bash
 git clone https://github.com/StanislavKapytsia/bike-layout_landing-page.git
 cd bike-layout_landing-page
-
+```
 ### 2. Install dependencies
 ```bash
 npm install
